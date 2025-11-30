@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+*.csv   # optional: only if CSVs are big
